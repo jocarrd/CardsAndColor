@@ -18,6 +18,12 @@
     <string name="title_placeholder">Title</string>
     <string name="news_placeholder">News</string>
     <string name="sports_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Praesent ultrices congue rutrum.
+        Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend
+        eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum
+        blandit, dolor diam fringilla tellus, eu euismod mauris neque
+        at neque.</string>
 
     <string-array name="sports_titles">
         <item>Baseball</item>
@@ -47,6 +53,7 @@
         <item>Here is some Tennis news!</item>
     </string-array>
 
+
     <array name="sports_images">
         <item>@drawable/img_baseball</item>
         <item>@drawable/img_badminton</item>
@@ -59,6 +66,7 @@
         <item>@drawable/img_swimming</item>
         <item>@drawable/img_tabletennis</item>
         <item>@drawable/img_tennis</item>
+
     </array>
 
 </resources>
